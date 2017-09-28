@@ -1,2 +1,0 @@
-# daydayFruit
-daydayFruit project
